@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 강진규
-- 리뷰어 : 양선호
+- 코더 : 코더의 이름을 작성하세요.
+- 리뷰어 : 리뷰어의 이름을 작성하세요.
 
 
 # PRT(Peer Review Template)
